@@ -1,0 +1,11 @@
+Age,Experience_Years,Monthly_Salary_INR,Department_Finance,Department_HR,Department_IT,Department_Marketing,Department_Operations,Department_Sales,Education_Level_Bachelor's,Education_Level_Diploma,Education_Level_Master's,Work_Mode_Hybrid,Work_Mode_Office,Work_Mode_Remote,City_Bengaluru,City_Chennai,City_Delhi,City_Hyderabad,City_Mumbai,City_Pune
+21.0,6.0,103818.0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+50.0,16.0,35763.0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+38.0,13.0,119632.0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+39.0,14.0,51231.0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0
+36.0,5.0,73994.0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0
+34.0,15.0,109759.0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+50.0,16.0,45708.0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+28.0,0.0,20163.0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1
+36.0,25.0,121982.0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
+35.0,17.0,115973.0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0
